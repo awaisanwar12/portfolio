@@ -8,9 +8,11 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
+  const basePath = process.env.GITHUB_ACTIONS === 'true' ? '/portfolio' : '';
+
   return (
     <html lang="en" data-theme="dark">
-      <body>{children}<Script src="/script.js" strategy="afterInteractive" /></body>
+      <body>{children}<Script src={`${basePath}/script.js`} strategy="afterInteractive" /></body>
     </html>
   );
 }
