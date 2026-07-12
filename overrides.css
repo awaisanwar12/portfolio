@@ -1,0 +1,14 @@
+.top-actions{display:flex;gap:9px}
+.top-actions a{font-size:13px;color:#e8ebfa;padding:10px 13px;border:1px solid var(--line);border-radius:10px;background:rgba(255,255,255,.045);transition:.2s}
+.top-actions a:hover{color:#fff;border-color:var(--line-bright);background:rgba(152,168,255,.1)}
+.profile-photo{position:relative;width:132px;height:132px;margin:0 auto 25px}
+.profile-photo img{width:100%;height:100%;object-fit:cover;object-position:center 15%;border-radius:50%;border:1px solid rgba(214,223,255,.55);box-shadow:0 0 0 8px rgba(152,168,255,.08),0 18px 45px rgba(0,0,0,.3)}
+.photo-status{position:absolute;left:50%;bottom:-12px;transform:translateX(-50%);white-space:nowrap;font:9px 'DM Mono';color:#0b211c;background:var(--mint);padding:6px 9px;border-radius:99px}
+.certification-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+.certification-card{display:flex;align-items:center;gap:14px;padding:17px;text-decoration:none;transition:transform .25s,border-color .25s}
+.certification-card:hover{transform:translateY(-4px);border-color:var(--line-bright)}
+.cert-mark{flex:0 0 40px;width:40px;height:40px;display:grid;place-items:center;border-radius:11px;color:#09111a;background:linear-gradient(135deg,var(--blue),var(--mint));font:600 11px 'DM Mono';text-align:center}
+.certification-card h3{font-size:13px;line-height:1.35;margin:0 0 4px;letter-spacing:-.02em}
+.certification-card p{font:10px/1.5 'DM Mono';color:var(--muted);margin:0}
+.cert-arrow{margin-left:auto;color:var(--mint);font-size:17px}
+@media(max-width:760px){.top-actions{width:100%;flex-wrap:wrap}.top-actions a{font-size:12px;padding:9px 11px}.certification-grid{grid-template-columns:1fr}.profile-photo{width:118px;height:118px}}

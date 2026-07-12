@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import Script from 'next/script';
 import '../styles.css';
+import '../overrides.css';
 
 export const metadata: Metadata = {
   title: 'Awais Anwar — Full-stack engineer for AI products',
