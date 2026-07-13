@@ -11,4 +11,5 @@
 .certification-card h3{font-size:13px;line-height:1.35;margin:0 0 4px;letter-spacing:-.02em}
 .certification-card p{font:10px/1.5 'DM Mono';color:var(--muted);margin:0}
 .cert-arrow{margin-left:auto;color:var(--mint);font-size:17px}
+.timeline-role .tag-row{margin-top:14px;padding-top:0}
 @media(max-width:760px){.top-actions{width:100%;flex-wrap:wrap}.top-actions a{font-size:12px;padding:9px 11px}.certification-grid{grid-template-columns:1fr}.profile-photo{width:118px;height:118px}}
