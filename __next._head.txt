@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[83395,["/portfolio/_next/static/chunks/0.-_ibv~_j6l6.js","/portfolio/_next/static/chunks/0.u1.aki-qfjw.js"],"ViewportBoundary"]
+3:I[83395,["/portfolio/_next/static/chunks/0.-_ibv~_j6l6.js","/portfolio/_next/static/chunks/0.u1.aki-qfjw.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Awais Anwar — Full-stack engineer for AI products"}],["$","meta","1",{"name":"description","content":"Awais Anwar builds production AI systems, automation platforms, and real-time products."}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HMh_3TvDZIioJ3OJ7QUXc"}

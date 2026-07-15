@@ -1,0 +1,117 @@
+1:"$Sreact.fragment"
+4:I[83395,["/portfolio/_next/static/chunks/0.-_ibv~_j6l6.js","/portfolio/_next/static/chunks/0.u1.aki-qfjw.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T4b63,
+    <div class="ambient" aria-hidden="true">
+      <span class="orb orb-one"></span><span class="orb orb-two"></span><span class="orb orb-three"></span>
+      <span class="grid-glow"></span>
+    </div>
+
+    <button class="menu-toggle" aria-label="Open navigation" aria-expanded="false"><i></i><i></i><i></i></button>
+    <div class="scrim"></div>
+    <aside class="side-nav" aria-label="Primary navigation">
+      <div class="nav-brand"><span>AA</span><small>Portfolio / 2026</small></div>
+      <p class="nav-label">Explore</p>
+      <nav>
+        <a class="active" href="#top">Overview</a>
+        <a href="#signals">Signals</a>
+        <a href="#work">Selected work</a>
+        <a href="#experience">Experience</a>
+        <a href="#toolkit">Toolkit</a>
+        <a href="#certifications">Certifications</a>
+        <a href="#contact">Contact</a>
+      </nav>
+      <div class="nav-foot"><span class="status-dot"></span> Available for thoughtful work</div>
+    </aside>
+
+    <main class="page" id="top">
+      <header class="hero reveal">
+        <div class="topline">
+          <span class="eyebrow"><span class="pulse"></span> Lahore, Pakistan · UTC+5</span>
+          <div class="top-actions">
+            <a href="Awais-Anwar-Resume.pdf" download>Resume <span>↓</span></a>
+            <a href="mailto:m.awaisanwar@outlook.com">Email me <span>↗</span></a>
+            <a href="https://www.linkedin.com/in/awaisanwar12/" target="_blank" rel="noreferrer">LinkedIn <span>↗</span></a>
+          </div>
+        </div>
+        <p class="kicker">FULL-STACK ENGINEER <span>×</span> AI SYSTEMS BUILDER</p>
+        <div class="profile-photo"><img src="awais-anwar.jpeg" alt="Portrait of Awais Anwar" /><span class="photo-status">Open to opportunities</span></div>
+        <h1>Awais <em>Anwar</em></h1>
+        <p class="hero-line">I turn complex product ideas into <span class="gradient-text">working systems.</span></p>
+        <p class="hero-copy">Seven-plus years building production software across <strong>AI agents</strong>, hiring platforms, logistics automation, trade compliance, and real-time operations. Comfortable owning the product from interface to infrastructure.</p>
+        <div class="hero-chips"><span>AI / agents</span><span>Product engineering</span><span>Automation</span><span>Systems that ship</span></div>
+        <div class="scroll-cue"><span></span> Scroll to explore</div>
+      </header>
+
+      <section class="section reveal" id="signals">
+        <div class="section-heading"><p class="section-index">01 / signals</p><h2>The useful kind of technical depth.</h2><p class="section-intro">I like the layer where product decisions, system design, and user experience meet.</p></div>
+        <div class="signal-grid">
+          <article class="signal-card glass"><div class="signal-icon">⌁</div><p class="signal-number">07<span>+</span></p><h3>Years shipping</h3><p>From React frontends to async workers, APIs, data models, and production observability.</p></article>
+          <article class="signal-card glass"><div class="signal-icon">✦</div><p class="signal-number">AI<span>×</span>Product</p><h3>Where I focus</h3><p>Agents, OCR, retrieval, multi-step workflows, and interfaces that make automation legible.</p></article>
+          <article class="signal-card glass"><div class="signal-icon">↗</div><p class="signal-number">E2E</p><h3>End to end</h3><p>One owner across the surface area: user experience, backend behavior, integrations, and delivery.</p></article>
+        </div>
+      </section>
+
+      <section class="section reveal" id="work">
+        <div class="section-heading split-heading"><div><p class="section-index">02 / selected work</p><h2>Systems with a job to do.</h2></div><p class="section-intro">A few representative builds from the resume — the through-line is turning messy operational work into clear, reliable software.</p></div>
+        <div class="work-grid">
+          <article class="work-card work-featured glass"><div class="work-meta"><span class="project-type">AI platform</span><span>01</span></div><div class="work-visual visual-jaspi"><span class="visual-orbit orbit-a"></span><span class="visual-orbit orbit-b"></span><span class="visual-core">J</span><span class="visual-label">candidate intelligence / workflow orchestration</span></div><h3>JASPI · AI Applicant Tracking System</h3><p>Production-grade hiring platform with resume parsing, candidate scoring, interview analysis, scheduling, notifications, recruiter analytics, and multi-agent orchestration.</p><div class="tag-row"><span>NestJS</span><span>Next.js</span><span>PostgreSQL</span><span>OpenAI</span><span>BullMQ</span></div></article>
+          <article class="work-card glass"><div class="work-meta"><span class="project-type">Trade intelligence</span><span>02</span></div><div class="work-visual visual-trade"><span class="trade-line line-one"></span><span class="trade-line line-two"></span><span class="trade-node node-one"></span><span class="trade-node node-two"></span><span class="trade-node node-three"></span><span class="visual-label">document → signal → decision</span></div><h3>TradeOS · AI Freight & Compliance</h3><p>AI platform for shipping documents, OCR, missing-field detection, sanctions screening, validation, and decision support.</p><div class="tag-row"><span>OCR</span><span>RAG</span><span>Node.js</span><span>Python</span></div></article>
+          <article class="work-card glass"><div class="work-meta"><span class="project-type">Voice automation</span><span>03</span></div><div class="work-visual visual-voice"><div class="waveform"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div><span class="visual-label">call → action → audit trail</span></div><h3>AI Voice-Agent Suite</h3><p>Inbound and outbound agents for logistics, medical, and educational workflows — with handoffs, confidence thresholds, and audit logs.</p><div class="tag-row"><span>Vapi</span><span>Retell</span><span>Webhooks</span><span>Redis</span></div></article>
+          <article class="work-card glass"><div class="work-meta"><span class="project-type">Fleet analytics</span><span>04</span></div><div class="work-visual visual-fleet"><div class="fleet-chart"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><span class="visual-label">real-time operations / fleet view</span></div><h3>GLASC.IO · Fleet intelligence</h3><p>Real-time fleet analytics for on-field truck data, geofencing, alerts, weight and position tracking, and logistics dashboards.</p><div class="tag-row"><span>Kafka</span><span>Cassandra</span><span>Socket.IO</span><span>React</span></div></article>
+          <article class="work-card glass"><div class="work-meta"><span class="project-type">Logistics platform</span><span>05</span></div><div class="work-visual visual-trade"><span class="trade-line line-one"></span><span class="trade-line line-two"></span><span class="trade-node node-one"></span><span class="trade-node node-two"></span><span class="trade-node node-three"></span><span class="visual-label">order → shipment → control tower</span></div><h3>4PL Logistics Platform</h3><p>End-to-end logistics operations platform for order management, shipment tracking, rider operations, customer support, reporting, and role-based workflows.</p><div class="tag-row"><span>MongoDB</span><span>Express.js</span><span>React</span><span>Node.js</span><span>MUI</span><span>RBAC</span></div></article>
+          <article class="work-card glass"><div class="work-meta"><span class="project-type">Merchant operations</span><span>06</span></div><div class="work-visual visual-jaspi"><span class="visual-orbit orbit-a"></span><span class="visual-orbit orbit-b"></span><span class="visual-core">M</span><span class="visual-label">merchant onboarding / order control</span></div><h3>Zone MSP · Merchant Service Platform</h3><p>Merchant portal for onboarding, order creation, shipment management, dashboard analytics, user management, and API integrations.</p><div class="tag-row"><span>React</span><span>MUI</span><span>REST APIs</span><span>Dashboards</span></div></article>
+          <article class="work-card glass"><div class="work-meta"><span class="project-type">Rider operations</span><span>07</span></div><div class="work-visual visual-fleet"><div class="fleet-chart"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><span class="visual-label">assign → track → deliver</span></div><h3>Zone RMP · Rider Management Platform</h3><p>Rider operations platform covering registration, order assignment, delivery status, earnings, routes, notifications, and performance dashboards.</p><div class="tag-row"><span>React</span><span>MUI</span><span>REST APIs</span><span>Real-time ops</span></div></article>
+          <article class="work-card glass"><div class="work-meta"><span class="project-type">Delivery operations</span><span>08</span></div><div class="work-visual visual-voice"><div class="waveform"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div><span class="visual-label">support / tracking / delivery lifecycle</span></div><h3>Zone Delivery Service</h3><p>Delivery operations suite for complete order lifecycle management, customer support, rider queries, shipment updates, tracking, and administration.</p><div class="tag-row"><span>React</span><span>Node.js</span><span>Express.js</span><span>MongoDB</span><span>MUI</span></div></article>
+        </div>
+      </section>
+
+      <section class="section reveal" id="experience">
+        <div class="section-heading"><p class="section-index">03 / experience</p><h2>A timeline of useful problems.</h2><p class="section-intro">Roles, but really a sequence of increasingly ambitious systems.</p></div>
+        <div class="timeline">
+          <div class="timeline-item current"><div class="timeline-dot"></div><div class="timeline-date">Sep 2025 — Mar 2026</div><div class="timeline-role"><h3>Full-stack / AI Engineer <span>JASPI</span></h3><p>Built the applicant tracking platform, microservices, AI services, auth, scheduling, notifications, monitoring, and recruiter-facing workflows.</p><div class="tag-row"><span>NestJS</span><span>Next.js</span><span>OpenAI</span><span>PostgreSQL</span></div></div></div>
+          <div class="timeline-item"><div class="timeline-dot"></div><div class="timeline-date">Sep 2025 — Mar 2026</div><div class="timeline-role"><h3>Full-stack Developer <span>PowerMatch</span></h3><p>Built matching experiences for an AI-assisted construction hiring platform, from candidate/company flows to match-score explanations and admin dashboards.</p><div class="tag-row"><span>Next.js</span><span>Node.js</span><span>PostgreSQL</span><span>Matching</span><span>Auth</span></div></div></div>
+          <div class="timeline-item"><div class="timeline-dot"></div><div class="timeline-date">Jul 2024 — Sep 2025</div><div class="timeline-role"><h3>Full-stack Engineer <span>The Game Company · UAE</span></h3><p>Built and maintained gaming, AI, and crypto products including tap-to-earn games, tournaments, prediction dashboards, CMS tools, scrapers, and AI support agents.</p><div class="tag-row"><span>React</span><span>Node.js</span><span>FastAPI</span><span>MongoDB</span><span>AI agents</span><span>WebSockets</span><span>RAG</span></div></div></div>
+          <div class="timeline-item"><div class="timeline-dot"></div><div class="timeline-date">Dec 2022 — Jul 2024</div><div class="timeline-role"><h3>Full-stack Developer <span>Zone Delivery Services · Dubai</span></h3><p>Built the 4PL, merchant, rider, and delivery operations platforms for order lifecycle management, logistics workflows, support, dashboards, and internal process automation.</p><div class="tag-row"><span>Next.js</span><span>Node.js</span><span>MongoDB</span><span>Redis</span><span>Dashboards</span><span>Automation</span></div></div></div>
+          <div class="timeline-item"><div class="timeline-dot"></div><div class="timeline-date">Jan 2022 — Dec 2022</div><div class="timeline-role"><h3>Full-stack Engineer <span>HyseTech · Islamabad</span></h3><p>Delivered React and Next.js applications, reusable components, API integrations, performance work, and production UI delivery.</p><div class="tag-row"><span>React</span><span>Next.js</span><span>SSR</span><span>REST APIs</span><span>Performance</span></div></div></div>
+          <div class="timeline-item"><div class="timeline-dot"></div><div class="timeline-date">Sep 2018 — Dec 2021</div><div class="timeline-role"><h3>Full-stack Engineer <span>Nested Logics · Islamabad</span></h3><p>Built responsive React frontends, dashboards, business applications, API integrations, and production web features from design specifications.</p><div class="tag-row"><span>React</span><span>Node.js</span><span>REST APIs</span><span>Dashboards</span><span>Responsive UI</span></div></div></div>
+        </div>
+      </section>
+
+      <section class="section reveal" id="toolkit">
+        <div class="section-heading split-heading"><div><p class="section-index">04 / toolkit</p><h2>The parts I reach for.</h2></div><p class="section-intro">A pragmatic stack, chosen for the system in front of me — not for the logo on the slide.</p></div>
+        <div class="toolkit-grid">
+          <article class="tool-card glass"><span class="tool-index">01</span><h3>Product surface</h3><p>React · Next.js · Angular · React Native · Tailwind · Material UI · Ant Design · AG Grid</p></article>
+          <article class="tool-card glass"><span class="tool-index">02</span><h3>Backend & data</h3><p>Node.js · NestJS · FastAPI · REST · WebSockets · PostgreSQL · MongoDB · Redis · TypeORM</p></article>
+          <article class="tool-card glass"><span class="tool-index">03</span><h3>AI & automation</h3><p>OpenAI SDK · LangChain · LangGraph · RAG · MCPs · Vapi · Retell · OCR · prompt engineering</p></article>
+          <article class="tool-card glass"><span class="tool-index">04</span><h3>Delivery & reliability</h3><p>Docker · Nginx · GitHub · Kafka · RabbitMQ · BullMQ · Linux · S3 · Playwright</p></article>
+        </div>
+        <div class="education glass"><div><p class="section-index">Education</p><h3>BS (Hons.) Software Engineering</h3><p>University of Engineering and Technology (UET), Taxila · 2018</p></div><div class="certs"><span>JavaScript · HackerRank</span><span>Backend Apps with Node.js · IBM</span><span>Frontend Developer (React) · Meta</span></div></div>
+      </section>
+
+      <section class="section reveal" id="certifications">
+        <div class="section-heading split-heading"><div><p class="section-index">05 / certifications</p><h2>Proof of the fundamentals.</h2></div><p class="section-intro">A collection of formal credentials across software engineering, JavaScript, frontend development, backend systems, analytics, and project delivery.</p></div>
+        <div class="certification-grid">
+          <a class="certification-card glass" href="https://www.coursera.org/account/accomplishments/specialization/Y7WYT8MZMW8H" target="_blank" rel="noreferrer"><span class="cert-mark">G</span><div><h3>Google Business Intelligence</h3><p>Google · Credential ID Y7WYT8MZMW8H</p></div><span class="cert-arrow">↗</span></a>
+          <a class="certification-card glass" href="https://www.coursera.org/account/accomplishments/specialization/ZXQ7E9NGSBVS" target="_blank" rel="noreferrer"><span class="cert-mark">G</span><div><h3>Google Data Analytics</h3><p>Google · Credential ID ZXQ7E9NGSBVS</p></div><span class="cert-arrow">↗</span></a>
+          <a class="certification-card glass" href="https://www.coursera.org/account/accomplishments/specialization/T1WEM9VN4PB0" target="_blank" rel="noreferrer"><span class="cert-mark">G</span><div><h3>Google Project Management</h3><p>Google · Credential ID T1WEM9VN4PB0</p></div><span class="cert-arrow">↗</span></a>
+          <a class="certification-card glass" href="https://www.coursera.org/account/accomplishments/verify/KY8DULGRKGBN" target="_blank" rel="noreferrer"><span class="cert-mark">IBM</span><div><h3>Developing Back-End Apps with Node.js & Express</h3><p>IBM · Credential ID KY8DULGRKGBN</p></div><span class="cert-arrow">↗</span></a>
+          <a class="certification-card glass" href="https://www.coursera.org/account/accomplishments/specialization/D7HH49B4XMZB" target="_blank" rel="noreferrer"><span class="cert-mark">M</span><div><h3>Frontend Developer (React)</h3><p>Meta · Credential ID D7HH49B4XMZB</p></div><span class="cert-arrow">↗</span></a>
+          <a class="certification-card glass" href="https://www.coursera.org/account/accomplishments/verify/TXQ5VS6RVYZH" target="_blank" rel="noreferrer"><span class="cert-mark">U-M</span><div><h3>Interactivity with JavaScript</h3><p>University of Michigan · Credential ID TXQ5VS6RVYZH</p></div><span class="cert-arrow">↗</span></a>
+          <a class="certification-card glass" href="https://www.coursera.org/account/accomplishments/verify/CVUGCW8XHJ9W" target="_blank" rel="noreferrer"><span class="cert-mark">UC</span><div><h3>Interactivity with JavaScript & jQuery with Honors</h3><p>University of California, Davis · Credential ID CVUGCW8XHJ9W</p></div><span class="cert-arrow">↗</span></a>
+          <a class="certification-card glass" href="https://www.hackerrank.com/certificates/7b8a9f20a318" target="_blank" rel="noreferrer"><span class="cert-mark">HR</span><div><h3>JavaScript (Intermediate)</h3><p>HackerRank · Credential ID 7b8a9f20a318</p></div><span class="cert-arrow">↗</span></a>
+          <a class="certification-card glass" href="https://www.hackerrank.com/certificates/281B3A898C7F" target="_blank" rel="noreferrer"><span class="cert-mark">HR</span><div><h3>Frontend Developer (React)</h3><p>HackerRank · Credential ID 281B3A898C7F</p></div><span class="cert-arrow">↗</span></a>
+          <a class="certification-card glass" href="https://www.hackerrank.com/certificates/281B3A898C7F" target="_blank" rel="noreferrer"><span class="cert-mark">HR</span><div><h3>Software Engineer</h3><p>HackerRank · Credential ID 281B3A898C7F</p></div><span class="cert-arrow">↗</span></a>
+        </div>
+      </section>
+
+      <section class="section contact-section reveal" id="contact">
+        <div class="contact-card glass"><p class="section-index">06 / contact</p><h2>Have a hard problem<br /><span>worth building?</span></h2><p>Tell me what you’re trying to make, improve, or untangle. I’m especially interested in AI products that have real users and real operational consequences.</p><div class="contact-actions"><a class="primary-button" href="mailto:m.awaisanwar@outlook.com">Start a conversation <span>↗</span></a><a class="secondary-button" href="https://github.com/awaisanwar12" target="_blank" rel="noreferrer">GitHub <span>↗</span></a><a class="secondary-button" href="https://www.linkedin.com/in/awaisanwar12/" target="_blank" rel="noreferrer">LinkedIn <span>↗</span></a></div></div>
+      </section>
+
+      <footer><span>© 2026 Awais Anwar</span><span>Built for the work behind the work.</span><a href="#top">Back to top ↑</a></footer>
+    </main>
+    
+  0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HMh_3TvDZIioJ3OJ7QUXc"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null
