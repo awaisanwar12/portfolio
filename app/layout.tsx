@@ -4,8 +4,8 @@ import '../styles.css';
 import '../overrides.css';
 
 export const metadata: Metadata = {
-  title: 'Awais Anwar — Full-stack engineer for AI products',
-  description: 'Awais Anwar builds production AI systems, automation platforms, and real-time products.',
+  title: 'Awais Anwar | Full-Stack & AI Product Engineer',
+  description: 'Awais Anwar builds production AI systems, SaaS platforms, mobile apps, and real-time operations software.',
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
