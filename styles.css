@@ -634,6 +634,41 @@ button {
   padding-top: 6px;
 }
 
+.work-links {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  padding-top: 4px;
+}
+
+.timeline-role .work-links {
+  margin-top: 12px;
+}
+
+.work-links a {
+  font: 500 12.5px 'DM Mono', monospace;
+  color: var(--text);
+  text-decoration: none;
+  padding: 6px 12px;
+  border-radius: 9px;
+  border: 1px solid rgba(56, 189, 248, 0.28);
+  background: rgba(56, 189, 248, 0.09);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: all 0.2s ease;
+}
+
+.work-links a:hover {
+  border-color: rgba(56, 189, 248, 0.55);
+  background: rgba(56, 189, 248, 0.18);
+  transform: translateY(-1px);
+}
+
+.work-links a span {
+  color: var(--accent);
+}
+
 .timeline {
   display: grid;
   gap: 14px;
