@@ -1,0 +1,410 @@
+1:"$Sreact.fragment"
+2:I[91204,["/portfolio/_next/static/chunks/0.-_ibv~_j6l6.js","/portfolio/_next/static/chunks/0.u1.aki-qfjw.js"],"default"]
+3:I[34128,["/portfolio/_next/static/chunks/0.-_ibv~_j6l6.js","/portfolio/_next/static/chunks/0.u1.aki-qfjw.js"],"default"]
+4:I[45775,["/portfolio/_next/static/chunks/0.-_ibv~_j6l6.js","/portfolio/_next/static/chunks/0.u1.aki-qfjw.js"],""]
+8:I[74000,["/portfolio/_next/static/chunks/0.-_ibv~_j6l6.js","/portfolio/_next/static/chunks/0.u1.aki-qfjw.js"],"default",1]
+:HL["/portfolio/_next/static/chunks/0nt2tnzx3jq1-.css","style"]
+5:T6ada,
+    <div class="ambient" aria-hidden="true">
+      <span class="orb orb-one"></span>
+      <span class="orb orb-two"></span>
+      <span class="orb orb-three"></span>
+      <span class="grid-glow"></span>
+    </div>
+
+    <button class="menu-toggle" aria-label="Open navigation" aria-expanded="false"><i></i><i></i><i></i></button>
+    <div class="scrim"></div>
+    <aside class="side-nav" aria-label="Primary navigation">
+      <div class="nav-brand">
+        <span>AA</span>
+        <small>Awais Anwar<br />System Portfolio</small>
+      </div>
+      <div class="nav-group">
+        <p class="nav-label">Workspace</p>
+        <nav>
+          <a class="active" href="#top">Overview</a>
+          <a href="#signals">Capabilities</a>
+          <a href="#work">Selected Work</a>
+          <a href="#experience">Experience</a>
+          <a href="#toolkit">Toolkit</a>
+          <a href="#certifications">Credentials</a>
+          <a href="#contact">Contact</a>
+        </nav>
+      </div>
+      <div class="nav-foot"><span class="status-dot"></span> Available for new builds</div>
+    </aside>
+
+    <main class="page" id="top">
+      <header class="hero reveal">
+        <div class="topline">
+          <span class="eyebrow"><span class="pulse"></span> Lahore, Pakistan · UTC+5</span>
+          <div class="top-actions">
+            <a href="Awais-Anwar-Resume.pdf" download>Resume <span>↓</span></a>
+            <a href="mailto:m.awaisanwar@outlook.com">Email me <span>↗</span></a>
+            <a href="https://github.com/awaisanwar12" target="_blank" rel="noreferrer">GitHub <span>↗</span></a>
+            <a href="https://www.linkedin.com/in/awaisanwar12/" target="_blank" rel="noreferrer">LinkedIn <span>↗</span></a>
+          </div>
+        </div>
+        <p class="kicker">FULL-STACK ENGINEER <span>/</span> AI &amp; PRODUCT ARCHITECT</p>
+        <div class="profile-photo">
+          <img src="awais-anwar.jpeg" alt="Portrait of Awais Anwar" />
+          <span class="photo-status">Open to opportunities</span>
+        </div>
+        <h1>Awais <em>Anwar</em></h1>
+        <p class="hero-line">I turn complex product ideas into <span class="gradient-text">shipping software.</span></p>
+        <p class="hero-copy">Seven-plus years engineering production software across <strong>AI agents</strong>, hiring platforms, gaming and staking ecosystems, trade compliance, and real-time logistics. Owning the complete stack from user interface to cloud infrastructure.</p>
+        <div class="hero-chips">
+          <span>AI Evaluation Pipelines</span>
+          <span>AI Agents &amp; RAG</span>
+          <span>Product Engineering</span>
+          <span>Staking &amp; Gaming Systems</span>
+          <span>Workflow Automation</span>
+          <span>Real-Time Operations</span>
+        </div>
+      </header>
+
+      <section class="section reveal" id="signals">
+        <div class="section-heading split-heading">
+          <div>
+            <p class="section-index">01 / capabilities</p>
+            <h2>Built for clarity, scale, and speed.</h2>
+          </div>
+          <p class="section-intro">Where product architecture, resilient backend engineering, and refined user interfaces meet.</p>
+        </div>
+        <div class="signal-grid">
+          <article class="signal-card glass">
+            <div class="signal-top">
+              <p class="signal-number">07<span>+</span></p>
+              <div class="signal-icon">⌁</div>
+            </div>
+            <h3>Years in Production</h3>
+            <p>End-to-end delivery across React, Next.js, Angular, React Native, NestJS, FastAPI, Django, PostgreSQL, Redis, BullMQ, and distributed event queues.</p>
+          </article>
+          <article class="signal-card glass">
+            <div class="signal-top">
+              <p class="signal-number">AI<span>×</span>Ops</p>
+              <div class="signal-icon">✦</div>
+            </div>
+            <h3>Where I Focus</h3>
+            <p>AI evaluation and appraisal pipelines, multi-agent systems, OCR and document intelligence, voice-agent workflows, staking platforms, and logistics control towers.</p>
+          </article>
+          <article class="signal-card glass">
+            <div class="signal-top">
+              <p class="signal-number">E2E</p>
+              <div class="signal-icon">↗</div>
+            </div>
+            <h3>Single-Owner Execution</h3>
+            <p>Direct ownership over interface design, API contracts, database modeling, AI valuation and payment flows, async workers, and production observability.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section reveal" id="work">
+        <div class="section-heading split-heading">
+          <div>
+            <p class="section-index">02 / selected work</p>
+            <h2>Systems with a job to do.</h2>
+          </div>
+          <p class="section-intro">Representative production builds turning complex operational workflows into clear, reliable software.</p>
+        </div>
+
+        <div class="work-grid">
+          <article class="work-card work-featured glass">
+            <div class="work-meta">
+              <span class="project-type">AI Appraisal &amp; Buyback Platform</span>
+              <span class="status-pill">01 · Production</span>
+            </div>
+            <h3>Cash for Arms · Nationwide Buyback &amp; AI Valuation</h3>
+            <p>Nationwide FFL-licensed buyback and consignment platform for firearms, ammunition, and accessories across all 50 US states. Built full-stack Next.js and FastAPI systems with AI evaluation pipelines for intake screening, photo and condition grading, canonical brand/model/caliber taxonomy matching, automated cash-offer generation, insured shipping orchestration, and same-day ACH/RTP payouts.</p>
+            <div class="work-links">
+              <a href="https://www.cashforarms.com/" target="_blank" rel="noreferrer">cashforarms.com <span>↗</span></a>
+            </div>
+            <div class="tag-row"><span>Next.js</span><span>FastAPI</span><span>AI Evaluation Pipelines</span><span>PostgreSQL</span><span>Redis</span><span>FFL Compliance</span></div>
+          </article>
+
+          <article class="work-card glass">
+            <div class="work-meta">
+              <span class="project-type">Marketplace &amp; Live Auctions</span>
+              <span class="status-pill">02 · Production</span>
+            </div>
+            <h3>FirearmLand · Consignment, Catalog &amp; Auctions</h3>
+            <p>Online marketplace, estate consignment, and no-reserve penny auction platform for firearms, ammunition, and accessories. Engineered Next.js frontends and FastAPI backends powering canonical catalog synchronization (brands, nameplates, platforms, cartridges, categories), AI appraisal workflows, deal submission intake, and live auction listing pipelines.</p>
+            <div class="work-links">
+              <a href="https://firearmland.com/" target="_blank" rel="noreferrer">firearmland.com <span>↗</span></a>
+            </div>
+            <div class="tag-row"><span>Next.js</span><span>FastAPI</span><span>Canonical Taxonomy</span><span>AI Valuation</span><span>PostgreSQL</span></div>
+          </article>
+
+          <article class="work-card glass">
+            <div class="work-meta">
+              <span class="project-type">Private Mail-In Buyback</span>
+              <span class="status-pill">03 · Production</span>
+            </div>
+            <h3>GunBuyback.org · Automated Intake &amp; Screening</h3>
+            <p>Year-round private mail-in buyback platform across all 50 US states for firearms, ammunition, and accessories. Built full-stack submission workflows, AI screening and evaluation pipelines, FFL transfer compliance, instant offer calculation, and prepaid shipping and payout automation powered by Django and Next.js.</p>
+            <div class="work-links">
+              <a href="https://www.gunbuyback.org/" target="_blank" rel="noreferrer">gunbuyback.org <span>↗</span></a>
+            </div>
+            <div class="tag-row"><span>Django</span><span>Next.js</span><span>AI Screening</span><span>PostgreSQL</span><span>Async Workers</span></div>
+          </article>
+
+          <article class="work-card glass">
+            <div class="work-meta">
+              <span class="project-type">AI Platform</span>
+              <span class="status-pill">04 · Production</span>
+            </div>
+            <h3>JASPI · AI Applicant Tracking System</h3>
+            <p>Production-grade hiring platform with resume parsing, candidate scoring, interview analysis, calendar OAuth scheduling, notifications, recruiter analytics, and multi-agent orchestration.</p>
+            <div class="tag-row"><span>NestJS</span><span>Next.js</span><span>PostgreSQL</span><span>OpenAI</span><span>LangChain</span><span>BullMQ</span><span>Docker</span></div>
+          </article>
+
+          <article class="work-card glass">
+            <div class="work-meta">
+              <span class="project-type">Trade Intelligence</span>
+              <span class="status-pill">05 · Production</span>
+            </div>
+            <h3>TradeOS · AI Freight &amp; Compliance</h3>
+            <p>AI document intelligence platform for shipping paperwork, OCR extraction, missing-field detection, sanctions screening, customs validation, and routing decision support.</p>
+            <div class="tag-row"><span>OCR</span><span>RAG</span><span>Node.js</span><span>Python</span><span>PostgreSQL</span></div>
+          </article>
+
+          <article class="work-card glass">
+            <div class="work-meta">
+              <span class="project-type">Voice Automation</span>
+              <span class="status-pill">06 · Production</span>
+            </div>
+            <h3>AI Voice-Agent Automation Suite</h3>
+            <p>Inbound and outbound voice agents for trucking dispatch, medical reception, and education intake with structured webhooks, confidence thresholds, and audit logs.</p>
+            <div class="tag-row"><span>Vapi</span><span>Retell</span><span>Bland AI</span><span>Webhooks</span><span>Redis</span></div>
+          </article>
+
+          <article class="work-card glass">
+            <div class="work-meta">
+              <span class="project-type">Fleet Telemetry</span>
+              <span class="status-pill">07 · Production</span>
+            </div>
+            <h3>GLASC.IO · Fleet Intelligence</h3>
+            <p>Real-time fleet analytics platform ingesting on-field truck telemetry, weight and GPS position tracking, geofencing rules, anomaly alerts, and live logistics dashboards.</p>
+            <div class="tag-row"><span>Kafka</span><span>Cassandra</span><span>RabbitMQ</span><span>Socket.IO</span><span>React</span></div>
+          </article>
+
+          <article class="work-card glass">
+            <div class="work-meta">
+              <span class="project-type">Logistics Control Tower</span>
+              <span class="status-pill">08 · Production</span>
+            </div>
+            <h3>4PL Logistics Platform</h3>
+            <p>End-to-end logistics operations platform for order management, shipment tracking, rider operations, customer support, reporting, and role-based workflows.</p>
+            <div class="tag-row"><span>MongoDB</span><span>Express.js</span><span>React</span><span>Node.js</span><span>MUI</span><span>RBAC</span></div>
+          </article>
+
+          <article class="work-card glass">
+            <div class="work-meta">
+              <span class="project-type">Merchant Operations</span>
+              <span class="status-pill">09 · Production</span>
+            </div>
+            <h3>Zone MSP · Merchant Service Platform</h3>
+            <p>Self-service merchant portal for onboarding, order creation, shipment management, dashboard analytics, user management, and API integrations.</p>
+            <div class="tag-row"><span>React</span><span>MUI</span><span>REST APIs</span><span>Dashboards</span></div>
+          </article>
+
+          <article class="work-card glass">
+            <div class="work-meta">
+              <span class="project-type">Rider Operations</span>
+              <span class="status-pill">10 · Production</span>
+            </div>
+            <h3>Zone RMP · Rider Management Platform</h3>
+            <p>Rider operations platform covering registration, order assignment, delivery status, earnings, routes, notifications, and performance dashboards.</p>
+            <div class="tag-row"><span>React</span><span>MUI</span><span>REST APIs</span><span>Real-Time Ops</span></div>
+          </article>
+
+          <article class="work-card glass">
+            <div class="work-meta">
+              <span class="project-type">Delivery Lifecycle</span>
+              <span class="status-pill">11 · Production</span>
+            </div>
+            <h3>Zone Delivery Service</h3>
+            <p>Delivery operations suite for complete order lifecycle management, customer support, rider queries, shipment updates, tracking, and administration.</p>
+            <div class="tag-row"><span>React</span><span>Node.js</span><span>Express.js</span><span>MongoDB</span><span>MUI</span></div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section reveal" id="experience">
+        <div class="section-heading">
+          <p class="section-index">03 / experience</p>
+          <h2>A timeline of production engineering.</h2>
+          <p class="section-intro">Building high-leverage systems across AI evaluation, marketplaces, gaming, Web3 staking, hiring, and logistics.</p>
+        </div>
+        <div class="timeline">
+          <div class="timeline-item current">
+            <div class="timeline-date"><span class="timeline-dot"></span>Apr 2026 to Present</div>
+            <div class="timeline-role">
+              <h3>Full-Stack / AI Engineer <span>Cash for Arms · FirearmLand · GunBuyback.org</span></h3>
+              <p>Engineered full-stack frontend and backend systems across Next.js and FastAPI for Cash for Arms and FirearmLand, and Django for GunBuyback.org, powering nationwide firearm, ammunition, and accessory buyback, consignment, and auction platforms across all 50 US states. Built AI evaluation and appraisal pipelines for automated submission screening, photo and condition grading, canonical brand/model/caliber taxonomy resolution, real-time valuation and cash-offer generation, FFL compliance, and live auction listing synchronization.</p>
+              <div class="work-links">
+                <a href="https://www.cashforarms.com/" target="_blank" rel="noreferrer">cashforarms.com <span>↗</span></a>
+                <a href="https://firearmland.com/" target="_blank" rel="noreferrer">firearmland.com <span>↗</span></a>
+                <a href="https://www.gunbuyback.org/" target="_blank" rel="noreferrer">gunbuyback.org <span>↗</span></a>
+              </div>
+              <div class="tag-row"><span>Next.js</span><span>FastAPI</span><span>Django (GunBuyback.org)</span><span>AI Evaluation Pipelines</span><span>PostgreSQL</span><span>Redis</span><span>Canonical Taxonomy</span></div>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="timeline-date"><span class="timeline-dot"></span>Sep 2025 to Mar 2026</div>
+            <div class="timeline-role">
+              <h3>Full-Stack / AI Engineer <span>JASPI</span></h3>
+              <p>Architected the AI Applicant Tracking System across NestJS microservices and Next.js frontends, delivering resume extraction, multi-agent candidate evaluation, interview intelligence, OAuth calendar scheduling, BullMQ async queues, and recruiter analytics.</p>
+              <div class="tag-row"><span>NestJS</span><span>Next.js</span><span>OpenAI</span><span>LangChain</span><span>PostgreSQL</span><span>BullMQ</span></div>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="timeline-date"><span class="timeline-dot"></span>Sep 2025 to Mar 2026</div>
+            <div class="timeline-role">
+              <h3>Full-Stack Developer <span>PowerMatch</span></h3>
+              <p>Built full-stack matching workflows for an AI-assisted construction hiring platform, including worker trade profiles, commute and availability scoring, explainable match rankings, shortlist pipelines, and admin operations dashboards.</p>
+              <div class="tag-row"><span>Next.js</span><span>Node.js</span><span>PostgreSQL</span><span>AI Matching</span><span>RBAC</span></div>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="timeline-date"><span class="timeline-dot"></span>Jul 2024 to Sep 2025</div>
+            <div class="timeline-role">
+              <h3>Full-Stack Engineer <span>The Game Company · UAE</span></h3>
+              <p>Engineered gaming, Web3 staking, and AI products including token staking platforms, reward pools, prediction and staking dashboards, tap-to-earn games, and online tournament systems. Built automated esports data pipelines utilizing Liquipedia and HLTV scrapers for live match schedules, brackets, and team stats, alongside RAG support agents and WebSocket/WebRTC streaming.</p>
+              <div class="tag-row"><span>React</span><span>Node.js</span><span>FastAPI</span><span>Staking Systems</span><span>Liquipedia &amp; HLTV Scrapers</span><span>AI Agents</span><span>WebSockets</span></div>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="timeline-date"><span class="timeline-dot"></span>Dec 2022 to Jul 2024</div>
+            <div class="timeline-role">
+              <h3>Full-Stack Developer <span>Zone Delivery Services · Dubai</span></h3>
+              <p>Built the in-house 4PL logistics, merchant (MSP), rider (RMP), and last-mile delivery platforms powering order lifecycle management, fleet dispatch, employee operations, real-time tracking dashboards, and workflow automation.</p>
+              <div class="tag-row"><span>Next.js</span><span>React</span><span>Node.js</span><span>MongoDB</span><span>Redis</span><span>Logistics Automation</span></div>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="timeline-date"><span class="timeline-dot"></span>Jan 2022 to Dec 2022</div>
+            <div class="timeline-role">
+              <h3>Full-Stack Engineer <span>HyseTech · Islamabad</span></h3>
+              <p>Delivered server-rendered React and Next.js web applications, reusable component libraries, third-party API integrations, and frontend performance optimizations.</p>
+              <div class="tag-row"><span>React</span><span>Next.js</span><span>SSR</span><span>REST APIs</span><span>Performance</span></div>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="timeline-date"><span class="timeline-dot"></span>Sep 2018 to Dec 2021</div>
+            <div class="timeline-role">
+              <h3>Full-Stack Engineer <span>Nested Logics · Islamabad</span></h3>
+              <p>Built responsive React interfaces, enterprise dashboards, REST API integrations, and production web applications from product and design specifications.</p>
+              <div class="tag-row"><span>React</span><span>Node.js</span><span>REST APIs</span><span>Dashboards</span><span>Responsive UI</span></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section reveal" id="toolkit">
+        <div class="section-heading split-heading">
+          <div>
+            <p class="section-index">04 / toolkit</p>
+            <h2>Core engineering stack.</h2>
+          </div>
+          <p class="section-intro">Pragmatic technologies selected for reliability, developer velocity, and clean operational boundaries.</p>
+        </div>
+        <div class="toolkit-grid">
+          <article class="tool-card glass">
+            <span class="tool-index">01 / FRONTEND &amp; MOBILE</span>
+            <h3>Product Surface</h3>
+            <p>High-contrast web and mobile interfaces engineered for responsiveness, accessibility, and real-time state updates.</p>
+            <div class="tag-row"><span>React</span><span>Next.js</span><span>React Native</span><span>Angular</span><span>TypeScript</span><span>Tailwind CSS</span><span>MUI</span><span>Ant Design</span><span>AG Grid</span></div>
+          </article>
+          <article class="tool-card glass">
+            <span class="tool-index">02 / BACKEND &amp; DATA</span>
+            <h3>APIs &amp; Persistence</h3>
+            <p>Modular service architectures, event-driven workers, relational and document stores, and low-latency caching layers.</p>
+            <div class="tag-row"><span>Node.js</span><span>NestJS</span><span>FastAPI</span><span>Django</span><span>Express.js</span><span>PostgreSQL</span><span>MongoDB</span><span>Redis</span><span>WebSockets</span><span>TypeORM</span></div>
+          </article>
+          <article class="tool-card glass">
+            <span class="tool-index">03 / AI &amp; AUTOMATION</span>
+            <h3>Intelligent Workflows</h3>
+            <p>AI evaluation and appraisal pipelines, multi-agent orchestration, semantic retrieval, voice-agent telephony, and document OCR.</p>
+            <div class="tag-row"><span>AI Evaluation Pipelines</span><span>OpenAI SDK</span><span>LangChain</span><span>LangGraph</span><span>RAG</span><span>MCPs</span><span>Vapi</span><span>Retell</span><span>Bland AI</span><span>OCR</span><span>Langfuse</span></div>
+          </article>
+          <article class="tool-card glass">
+            <span class="tool-index">04 / INFRASTRUCTURE &amp; STREAMING</span>
+            <h3>Delivery &amp; Scale</h3>
+            <p>Containerized deployments, distributed message brokers, automated browser scrapers, and cloud storage pipelines.</p>
+            <div class="tag-row"><span>Docker</span><span>Nginx</span><span>Kafka</span><span>RabbitMQ</span><span>BullMQ</span><span>Playwright</span><span>AWS S3</span><span>Linux</span><span>GitHub Actions</span></div>
+          </article>
+        </div>
+        <div class="education glass">
+          <div>
+            <p class="section-index">Education</p>
+            <h3>BS (Hons.) Software Engineering</h3>
+            <p>University of Engineering and Technology (UET), Taxila · Graduated 2018</p>
+          </div>
+          <div class="tag-row">
+            <span>Software Architecture</span>
+            <span>Distributed Systems</span>
+            <span>Data Structures &amp; Algorithms</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="section reveal" id="certifications">
+        <div class="section-heading split-heading">
+          <div>
+            <p class="section-index">05 / credentials</p>
+            <h2>Verified certifications.</h2>
+          </div>
+          <p class="section-intro">Formal credentials across full-stack engineering, JavaScript, React, backend development, analytics, and project delivery.</p>
+        </div>
+        <div class="certification-grid">
+          <a class="certification-card glass" href="https://www.coursera.org/account/accomplishments/specialization/Y7WYT8MZMW8H" target="_blank" rel="noreferrer"><span class="cert-mark">G</span><div><h3>Google Business Intelligence</h3><p>Google · Credential ID Y7WYT8MZMW8H</p></div><span class="cert-arrow">↗</span></a>
+          <a class="certification-card glass" href="https://www.coursera.org/account/accomplishments/specialization/ZXQ7E9NGSBVS" target="_blank" rel="noreferrer"><span class="cert-mark">G</span><div><h3>Google Data Analytics</h3><p>Google · Credential ID ZXQ7E9NGSBVS</p></div><span class="cert-arrow">↗</span></a>
+          <a class="certification-card glass" href="https://www.coursera.org/account/accomplishments/specialization/T1WEM9VN4PB0" target="_blank" rel="noreferrer"><span class="cert-mark">G</span><div><h3>Google Project Management</h3><p>Google · Credential ID T1WEM9VN4PB0</p></div><span class="cert-arrow">↗</span></a>
+          <a class="certification-card glass" href="https://www.coursera.org/account/accomplishments/verify/KY8DULGRKGBN" target="_blank" rel="noreferrer"><span class="cert-mark">IBM</span><div><h3>Developing Back-End Apps with Node.js &amp; Express</h3><p>IBM · Credential ID KY8DULGRKGBN</p></div><span class="cert-arrow">↗</span></a>
+          <a class="certification-card glass" href="https://www.coursera.org/account/accomplishments/specialization/D7HH49B4XMZB" target="_blank" rel="noreferrer"><span class="cert-mark">M</span><div><h3>Meta Front-End Developer Specialization</h3><p>Meta · Credential ID D7HH49B4XMZB</p></div><span class="cert-arrow">↗</span></a>
+          <a class="certification-card glass" href="https://www.coursera.org/account/accomplishments/verify/TXQ5VS6RVYZH" target="_blank" rel="noreferrer"><span class="cert-mark">U-M</span><div><h3>Interactivity with JavaScript</h3><p>University of Michigan · Credential ID TXQ5VS6RVYZH</p></div><span class="cert-arrow">↗</span></a>
+          <a class="certification-card glass" href="https://www.coursera.org/account/accomplishments/verify/CVUGCW8XHJ9W" target="_blank" rel="noreferrer"><span class="cert-mark">UC</span><div><h3>Interactivity with JavaScript &amp; jQuery (Honors)</h3><p>University of California, Davis · Credential ID CVUGCW8XHJ9W</p></div><span class="cert-arrow">↗</span></a>
+          <a class="certification-card glass" href="https://www.hackerrank.com/certificates/7b8a9f20a318" target="_blank" rel="noreferrer"><span class="cert-mark">HR</span><div><h3>JavaScript (Intermediate)</h3><p>HackerRank · Credential ID 7b8a9f20a318</p></div><span class="cert-arrow">↗</span></a>
+          <a class="certification-card glass" href="https://www.hackerrank.com/certificates/281B3A898C7F" target="_blank" rel="noreferrer"><span class="cert-mark">HR</span><div><h3>Frontend Developer (React)</h3><p>HackerRank · Credential ID 281B3A898C7F</p></div><span class="cert-arrow">↗</span></a>
+        </div>
+      </section>
+
+      <section class="section contact-section reveal" id="contact">
+        <div class="contact-card glass">
+          <p class="section-index">06 / contact</p>
+          <h2>Have an ambitious product<br /><span>ready to ship?</span></h2>
+          <p>Reach out to discuss AI systems, SaaS platforms, mobile apps, or complex operational workflows that need clean architecture and reliable execution.</p>
+          <div class="contact-actions">
+            <a class="primary-button" href="mailto:m.awaisanwar@outlook.com">Start a conversation <span>↗</span></a>
+            <a class="secondary-button" href="Awais-Anwar-Resume.pdf" download>Download Resume <span>↓</span></a>
+            <a class="secondary-button" href="https://github.com/awaisanwar12" target="_blank" rel="noreferrer">GitHub <span>↗</span></a>
+            <a class="secondary-button" href="https://www.linkedin.com/in/awaisanwar12/" target="_blank" rel="noreferrer">LinkedIn <span>↗</span></a>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <span>© Awais Anwar · Full-Stack &amp; AI Engineer</span>
+        <span>Engineered for clarity and performance.</span>
+        <a href="#top">Back to top ↑</a>
+      </footer>
+    </main>
+    
+  0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/portfolio/_next/static/chunks/0nt2tnzx3jq1-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/portfolio/_next/static/chunks/0.-_ibv~_j6l6.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/portfolio/_next/static/chunks/0.u1.aki-qfjw.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","data-theme":"dark","children":["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L4",null,{"src":"/portfolio/script.js","strategy":"afterInteractive"}]]}]}]]}],{"children":[["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$5"}}],null,"$L6"]}],{},null,false,null]},null,false,null],"$L7",false]],"m":"$undefined","G":["$8",["$L9"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"d7GFSl6IM54W9cAT4k-ps"}
+a:I[83395,["/portfolio/_next/static/chunks/0.-_ibv~_j6l6.js","/portfolio/_next/static/chunks/0.u1.aki-qfjw.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+d:I[83395,["/portfolio/_next/static/chunks/0.-_ibv~_j6l6.js","/portfolio/_next/static/chunks/0.u1.aki-qfjw.js"],"ViewportBoundary"]
+f:I[83395,["/portfolio/_next/static/chunks/0.-_ibv~_j6l6.js","/portfolio/_next/static/chunks/0.u1.aki-qfjw.js"],"MetadataBoundary"]
+6:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+7:["$","$1","h",{"children":[null,["$","$Ld",null,{"children":"$Le"}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$b",null,{"name":"Next.Metadata","children":"$L10"}]}]}],null]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/portfolio/_next/static/chunks/0nt2tnzx3jq1-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+c:null
+10:[["$","title","0",{"children":"Awais Anwar | Full-Stack & AI Product Engineer"}],["$","meta","1",{"name":"description","content":"Awais Anwar builds production AI systems, SaaS platforms, mobile apps, and real-time operations software."}]]
