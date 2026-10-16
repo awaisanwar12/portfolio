@@ -32,23 +32,10 @@ const activeObserver = new IntersectionObserver(entries => entries.forEach(entry
 
 sections.forEach(section => activeObserver.observe(section));
 
-const workCards = [...document.querySelectorAll('.work-card')];
-workCards.forEach(card => {
+document.querySelectorAll('.work-card').forEach(card => {
   card.addEventListener('pointermove', event => {
     const rect = card.getBoundingClientRect();
     card.style.setProperty('--mx', `${event.clientX - rect.left}px`);
     card.style.setProperty('--my', `${event.clientY - rect.top}px`);
-  });
-});
-
-const filterButtons = [...document.querySelectorAll('.filter-btn')];
-filterButtons.forEach(btn => {
-  btn.addEventListener('click', () => {
-    const filter = btn.dataset.filter || 'all';
-    filterButtons.forEach(b => b.classList.toggle('active', b === btn));
-    workCards.forEach(card => {
-      const match = filter === 'all' || card.dataset.category === filter;
-      card.hidden = !match;
-    });
   });
 });
